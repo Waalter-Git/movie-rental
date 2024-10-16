@@ -1,1 +1,1 @@
-# movie-locate
+# movie-rental
